@@ -18,12 +18,12 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/M4Gd/soda-minimal-theme.git "Theme - Soda Minimal"
+    git clone https://github.com/M4Gd/soda-minimal-theme.git "Theme - Soda"
 
 ### Download Manually
 
 * Download the files using the GitHub .zip download option
-* Unzip the files and rename the folder to `Theme - Soda Minimal`
+* Unzip the files and rename the folder to `Theme - Soda`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory
 
