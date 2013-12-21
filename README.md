@@ -39,7 +39,8 @@ To configure Sublime Text to use the theme, follow the instructions below for yo
 **Example Sublime Text 2 User Settings**
 
     {
-        "theme": "Soda Minimal Light.sublime-theme"
+        "theme": "Soda Minimal Light.sublime-theme",
+        "color_scheme": "Packages/User/Brackets (Day) (SL).tmTheme"
     }
 
 ### Sublime Text 3
@@ -50,7 +51,8 @@ To configure Sublime Text to use the theme, follow the instructions below for yo
 **Example Sublime Text 3 User Settings**
 
     {
-        "theme": "Soda Light 3.sublime-theme"
+        "theme": "Soda Minimal Light.sublime-theme",
+        "color_scheme": "Packages/User/Brackets (Day) (SL).tmTheme"
     }
 
 
