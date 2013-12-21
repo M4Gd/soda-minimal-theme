@@ -35,13 +35,13 @@ To configure Sublime Text to use the theme, follow the instructions below for yo
 
 * Open your User Settings Preferences file `Sublime Text 2 -> Preferences -> Settings - User`
 * Add (or update) your theme entry to be `"theme": "Soda Minimal Light.sublime-theme"` or `"theme": "Soda Minimal Dark.sublime-theme"`
-* Add (or update) your color scheme entry to be `"color_scheme": "Packages/User/Brackets (Day) (SL).tmTheme"` or `"color_scheme": "Packages/User/Brackets (Night) (SL).tmTheme"`
+* Add (or update) your color scheme entry to be `"color_scheme": "Packages/Theme - Soda/Brackets (Day).tmTheme"` or `"color_scheme": "Packages/Theme - Soda/Brackets (Night).tmTheme"`
 
 **Example Sublime Text 2 User Settings**
 
     {
         "theme": "Soda Minimal Light.sublime-theme",
-        "color_scheme": "Packages/User/Brackets (Day) (SL).tmTheme"
+        "color_scheme": "Packages/Theme - Soda/Brackets (Day).tmTheme"
     }
 
 ### Sublime Text 3
