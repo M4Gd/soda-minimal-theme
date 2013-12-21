@@ -46,7 +46,7 @@ To configure Sublime Text to use the theme, follow the instructions below for yo
 ### Sublime Text 3
 
 * Open your User Settings Preferences file `Sublime Text -> Preferences -> Settings - User`
-* Add (or update) your theme entry to be `"theme": "Soda Light 3.sublime-theme"` or `"theme": "Soda Dark 3.sublime-theme"`
+* Add (or update) your theme entry to be `"theme": "Soda Minimal Light.sublime-theme"` or `"theme": "Soda Minimal Dark.sublime-theme"`
 
 **Example Sublime Text 3 User Settings**
 
